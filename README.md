@@ -1,2 +1,2 @@
-# AI_Poly
-# Korea Polytech University in Busan
+# 인공지능 개론
+## Korea Polytech University in Busan
